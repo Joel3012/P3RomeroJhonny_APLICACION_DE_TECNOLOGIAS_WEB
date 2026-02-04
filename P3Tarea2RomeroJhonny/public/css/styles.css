@@ -1,0 +1,17 @@
+/* Estilos personalizados para el proyecto AdminEnlacesPHP */
+
+/* Estilos para las etiquetas (tags) del post */
+.tag {
+    display: inline-block;
+    background-color: #3B82F6;
+    color: white;
+    padding: 0.375rem 0.75rem;
+    border-radius: 0.375rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: background-color 0.2s;
+}
+
+.tag:hover {
+    background-color: #2563EB;
+}
